@@ -1,7 +1,7 @@
 # 企业知识库构建系统 - MVP原型
 
 本项目是企业知识库构建方案的原型（MVP）实现，用于验证原设计方案的可行性。系统演示了从文档导入、清洗、语义分段到向量化与存储的完整流程。
-![Uploading 32d37d5f511072d4fe210d266e4083f.png…]()
+https://github.com/user-attachments/assets/758b5fe6-6fab-4749-9237-f08ce0230e05
 
 ## 项目结构
 
